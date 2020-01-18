@@ -1,1 +1,1 @@
-# LoRG-Launcher
+Русский
